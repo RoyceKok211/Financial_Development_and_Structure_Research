@@ -1,6 +1,6 @@
-# Financial_Development_and_Structure_Research
+# Financial Development and Structure Research
 
-The Financial Development and Structure data set is put togegther collaboratively by authours from World Bank, UC Berkeley and Tilburg University, Netherlands. The dataset was updated on November 2013.
+The Financial Development and Structure data set is put togegther collaboratively by authours from The World Bank, UC Berkeley and Tilburg University, Netherlands. The dataset was updated on November 2013.
 
 This data set contains:
 
