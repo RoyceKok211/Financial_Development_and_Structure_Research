@@ -10,8 +10,5 @@ coverage from year 1997 to year 2011, if applicable
 Topics such as bank concentration numbers, size of stock market as compared to GDP, liquid liabilities to GDP (%)
 Link to data source: https://datacatalog.worldbank.org/dataset/wps2146-financial-development-and-structure
 
-In this notebook, we'll first explore the regions with basic details. Then, we'll explore data points below to understand the financial developement in specific countries:
+In this notebook, we'll first explore the regions with basic details. Then, we'll explore data points including Central Bank Assets to GDP (%), Bank Concetration and Deposit Money Bank Assets to GDP (%) to understand the financial developement and structure in specific countries. 
 
-Central Bank Assets to GDP (%)
-Bank Concetration
-Consumer Savings Habits
